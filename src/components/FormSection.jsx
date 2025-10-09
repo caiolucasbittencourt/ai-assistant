@@ -13,7 +13,7 @@ export function FormSection() {
   const perguntarAI = async () => {
     const prompt = (gamePrompts[game] ?? `
 ## Especialidade
-Você é um assistente especialista em meta do jogo **${game}**.
+Você é um assistente especialista em **${game}**.
 ...
 Pergunta do usuário: `) + question
 
@@ -59,7 +59,7 @@ Pergunta do usuário: `) + question
   return (
     <section>
       <div>
-        <h2 className="title">Assistente de Meta</h2>
+        <h2 className="title">Assistente de IA</h2>
         <p>Pergunte sobre estratégias, builds e dicas para seus jogos!</p>
 
         <form onSubmit={handleSubmit}>
