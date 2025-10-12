@@ -4,9 +4,9 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-Este projeto foi originalmente criado em HTML, CSS e JavaScript puro durante o NLW Agents da Rocketseat.
+Assistente de IA que atua como especialista em jogos, fornecendo dicas e estratégias através da API do Gemini.
 
-Para fins de aprendizado e aprimoramento das minhas habilidades, migrei o projeto para **React**, aplicando conceitos como componentização e gerenciamento de estado.
+Este projeto foi originalmente criado em HTML, CSS e JavaScript puro durante o NLW Agents da Rocketseat. Para fins de aprendizado e aprimoramento das minhas habilidades, migrei o projeto para **React**, aplicando conceitos como componentização e gerenciamento de estado.
 
 ## Pré-visualização
 
