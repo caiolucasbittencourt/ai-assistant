@@ -1,4 +1,4 @@
-# Assistente de IA
+# AI Assistant
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -6,11 +6,11 @@
 
 **Assistente de IA** que atua como **especialista em jogos**, fornecendo dicas e estratégias através da **API do Gemini**.
 
-Este projeto foi originalmente criado em HTML, CSS e JavaScript puro durante o **NLW Agents da Rocketseat**. Para fins de aprendizado e aprimoramento das minhas habilidades, migrei o projeto para **React**, aplicando conceitos como componentização e gerenciamento de estado.
+Este projeto foi originalmente criado em HTML, CSS e JavaScript puro durante o **NLW Agents** da **Rocketseat**. Para fins de aprendizado e aprimoramento das minhas habilidades, migrei o projeto para **React**, aplicando conceitos como componentização e gerenciamento de estado.
 
-## Pré-visualização
+## Preview
 
-![Screenshot do projeto](./src/assets/nlw-agents-screenshot.png)
+![preview](./src/assets/nlw-agents-screenshot.png)
 
 ## Funcionalidades
 
@@ -26,3 +26,11 @@ Este projeto foi originalmente criado em HTML, CSS e JavaScript puro durante o *
 - JavaScript
 - Vite
 - HTML5 & CSS3
+
+## Instalação
+
+```bash
+git clone https://github.com/caiolucasbittencourt/ai-assistant
+cd ai-assistant
+npm install
+npm run dev
