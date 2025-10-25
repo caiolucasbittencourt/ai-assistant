@@ -6,7 +6,7 @@
 
 **Assistente de IA** que atua como **especialista em jogos**, fornecendo dicas e estratégias através da **API do Gemini**.
 
-Este projeto foi originalmente criado em HTML, CSS e JavaScript puro durante o **NLW Agents** da **Rocketseat**. Para fins de aprendizado e aprimoramento das minhas habilidades, migrei o projeto para **React**, aplicando conceitos como componentização e gerenciamento de estado.
+Este projeto foi originalmente criado em HTML, CSS e JavaScript puro durante o **NLW Agents** da **Rocketseat**. Para fins de aprendizado, migrei o projeto para **React**, aplicando conceitos como componentização e gerenciamento de estado.
 
 ## Preview
 
